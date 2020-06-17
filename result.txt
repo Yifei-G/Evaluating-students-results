@@ -1,0 +1,8 @@
+John	Smith	5
+Anna	Boleyn	4.5
+John	Smith	2
+Anna	Boleyn	11
+Andrew	Cox	1.5
+Rex	Morrisons	9.9
+Rex	Morrisons	8.4
+Andrew	Cox	7
